@@ -1,5 +1,11 @@
 # Redux Toolkit
 
+### App Preview
+![app_view](https://user-images.githubusercontent.com/24974999/167422614-ce1dfaae-713c-4e0a-8640-60ddc6772581.JPG)
+![modal_view](https://user-images.githubusercontent.com/24974999/167422631-14e0ab48-1088-4038-9d2e-be961c43585a.JPG)
+
+
+
 #### Support
 
 Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/sankalpsharma)
